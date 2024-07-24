@@ -1,0 +1,2 @@
+2024-07-23T21:58:27.694652-0300 INFO Chamando função 'soma' com args (4, 8) e kwargs {} utils_log.py
+2024-07-23T21:58:27.694774-0300 INFO Função 'soma' retornou 12 utils_log.py
